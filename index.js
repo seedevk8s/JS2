@@ -1,6 +1,6 @@
 const number = document.getElementById('number');
 const buttons = document.querySelectorAll('button');
-console.log(buttons);
+const [increase, decrease] = buttons;
 
 
 increase.onclick = () => {
