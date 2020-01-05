@@ -17,6 +17,8 @@ body {
 .modal {
     background: white;
     padding: 24px 16px;
+    border-radius: 4px;
+    width: 320px;
 }
 
 
